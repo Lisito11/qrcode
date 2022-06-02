@@ -1,6 +1,7 @@
 # Qrcode
 
 A simple application to read qr code.
+https://play.google.com/store/apps/details?id=com.lisito.qrcode
 
 ## Getting Started
 
